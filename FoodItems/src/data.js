@@ -39,6 +39,14 @@ export default[
         image:'5.jpg',
         price:'250'
     },
+    {
+        id:6,
+        name:"Burger",
+        desc:"India, officially the Republic of India (Hindi: Bhārat Gaṇarājya),[24] is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most ",
+        catagory:"Breakfast",
+        image:'5.jpg',
+        price:'250'
+    },
  
 
 ]
